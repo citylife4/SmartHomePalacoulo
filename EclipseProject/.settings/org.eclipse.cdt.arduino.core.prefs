@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+libraries=[{"package"\:"arduino","platform"\:"avr","library"\:"Wire"},"SD","SRAM",{"package"\:"arduino","platform"\:"avr","library"\:"HID"},{"package"\:"arduino","platform"\:"avr","library"\:"SoftwareSerial"},"SPIFlash","NTPClient","TimerOne",{"package"\:"arduino","platform"\:"avr","library"\:"SPI"},{"package"\:"arduino","platform"\:"avr","library"\:"EEPROM"},"Ethernet"]
